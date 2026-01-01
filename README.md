@@ -1,16 +1,39 @@
-🎬 Task 01 Completed – Data Science Internship | SkillCraft Technology
+# Task 01 – Movie Rating Distribution
 
-I’m excited to share that I’ve successfully completed Task 01 of my Data Science Internship at SkillCraft Technology 🚀
+## Internship
+SkillCraft Technology – Data Science Internship
 
-In this task, I worked on data visualization by analyzing a movie ratings dataset and creating a bar chart to understand the distribution of movies across different rating categories.
+## Objective
+The objective of this task is to visualize the distribution of a categorical variable using a bar chart. This task focuses on understanding how data visualization helps in analyzing and interpreting real-world datasets.
 
-🔧 Tools & Technologies Used:
-• Python
-• Matplotlib
-• Jupyter Notebook
+## Dataset Description
+The dataset represents movie ratings grouped into four categories:
+- Poor (0–2)
+- Average (2–3)
+- Good (3–4)
+- Excellent (4–5)
 
-📌 GitHub Repository: <paste your GitHub link>
+Each category indicates the number of movies falling within the specified rating range.
 
-This task helped me strengthen my understanding of data visualization techniques and extracting insights from real-world datasets. Looking forward to learning more in the upcoming tasks!
+## Tools & Technologies Used
+- Python
+- Matplotlib
+- Jupyter Notebook
 
-#DataScience #Python #DataVisualization #Internship #SkillCraftTechnology #LearningJourney
+## Visualization Description
+A bar chart is used to represent the distribution of movies across different rating categories.  
+- X-axis: Rating Categories  
+- Y-axis: Number of Movies  
+
+This visualization makes it easy to compare movie counts across rating levels.
+
+## Outcome
+Through this task, I gained hands-on experience in:
+- Data visualization using Python
+- Representing categorical data effectively
+- Extracting insights from visual representations
+
+## Conclusion
+The movie rating distribution chart provides a clear overview of how movies are rated, helping to identify trends and overall quality distribution.
+
+---
